@@ -145,3 +145,10 @@ a, a:hover, a:focus {
 .cart-table td, .cart-table th {
     vertical-align: middle;
 }
+
+@media screen and (max-width: 612px) {
+    .prdct-delete{
+        width: 25px;
+        height: 25px;
+    }
+  }
